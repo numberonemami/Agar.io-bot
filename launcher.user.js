@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Launcher
+// @name        sasi
 // @namespace   AposLauncher
 // @include     http://agar.io/
 // @version     2.2
